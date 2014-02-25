@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widgets>
+    <background name="classicbackdrop" multiscreen="true">
+        <rect x="0" y="0" width="device-width" height="device-height"></rect>
+    </background>
+    <widget name="plexyclock">
+        <rect x="80%" y="10%"></rect>
+    </widget>
+    <widget name="photoframe">
+        <rect x="65%" y="40%"></rect>
+    </widget>
+    <widget name="folderwidget">
+        <rect x="2%" y="10%"></rect>
+    </widget>
+    <widget name="plexyauth">
+        <rect x="2%" y="57%"></rect>
+    </widget>
+    <widget name="plexyyoutube">
+        <rect x="2%" y="47%"></rect>
+    </widget>
+    <widget name="mobilemon">
+        <rect x="80%" y="30%"></rect>
+    </widget>
+
+
+</widgets>

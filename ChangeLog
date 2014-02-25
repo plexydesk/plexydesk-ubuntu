@@ -1,0 +1,103 @@
+plexydesk-0.6.6    08 Oct 2012
+
+  * DELETE ME - PUT HERE ALL CHANGES CONCERNING plexydesk
+  * Fixes: PLEASE CHANGE ME
+  * Adds: PLEASE CHANGE ME
+  * Changes: PLEASE CHANGE ME
+  * New upstream version
+
+
+plexydesk-0.6.5   03 Jul 2011
+
+  * Feature #11: Desktop Folder Handling
+  * Feature #54: Write rpm spec file for plexydesk
+  * Feature #71: Ability to drag and drop folders
+  * Feature #72: Animated wallpaper swictching
+  * Feature #86: define icon attribute for themepack groups
+  * Feature #96: Unable to change the display picture in the Picture Frame.
+  * Feature #100: Fix and use image cache class
+  * Feature #112: merged shaders branch
+  * Feature #128: Make Folderview work again on linux
+  * Feature #137: rewrite the main runner for the default Desktop UI
+  * Feature #146: Test for OpenGL and enable it by default
+  * Feature #156: UNABLE TO ADD OR REMOVE EXTRA WIDGETS MANUALLY
+  * Feature #162: split the QML specific stuff out of PlexydeskWidget
+  * Feature #163: Move the system tray into into view plugin
+  * Support #101: Make a plexydesk Screencast
+  * Support #104: install https://github.com/sitaramc/gitolite
+  * Bug #60: QML application quit
+  * Bug #81: plexydesk is filled with junk
+  * Bug #98: Inconsistent image paths in plexy
+  * Bug #105: Do not produce log file when in release mode
+  * Bug #107: background doesn't scale properly on start up
+  * Bug #109: Shader branch does not build on windows
+  * Bug #111: Segfault on Mandriva x86
+  * Bug #114: Windows build script fails
+  * Bug #125: windows build script fails
+  * Bug #139: The main widget should have the 'plexydesk' name assigned
+  * Bug #140: No tray icon now
+  * Bug #141: PlexyDesk is broken when Compiz running. These bugs are seen when compiz on (Tested on Gnome):
+  * Bug #142: Plexy is only on one of the virtual Desktops
+  * Bug #145: plexydesk doesn't resize properly on widows
+  * Bug #158: Folder drop in Windows opens always in My Computer
+
+plexydesk-0.6.0    03 Jul 2011
+
+  * Feature #52: Create mac osx application bundle
+  * Feature #53: Create .deb files for plexydesk
+  * Feature #55: Depricate the following classes from the core library
+  * Feature #58: digital clock with QML
+  * Feature #66: Commits to review
+  * Release #42: Icon contaner
+  * Bug #61: Folder view does not monitor file system changes
+  * Bug #64: FolderView Widget does not show the Desktop files
+  * Bug #65: Native widgets are not loading, find out why
+  * Bug #67: plexy doesn't load jpeg images on windows
+  * Bug #68: dragging and dropping images does not work on windows
+
+
+plexydesk-0.5.21    27 May 2011
+
+  * Fixes: qml plugin install path on Ubuntu
+  * Build fix for Ubuntu
+  * New QML digital clock
+  * New Icon Container
+  * Fixes: stacking order of qml items
+  * Integration with Desktop service to run apps
+  * New QML C++ extension for Loading directories
+
+
+plexydesk-0.5.20    20 May 2011
+
+  * Feature #1: Review Varuna's commits
+  * Feature #2: remove all plugins from compiling
+  * Feature #3: review classic-background plugin
+  * Feature #4: Windows platform support
+  * Feature #8: support qml loading
+  * Feature #12: test cases for icon provider and qplexymime
+  * Feature #14: Merge windows branch with master
+  * Feature #19: QML secene for backdrop so we render them
+  * Feature #25: Test isssue close
+  * Feature #31: Light box for redmine
+  * Feature #46: Widget can't be closed
+  * Feature #48: theme packsupport
+  * Support #23: Upgrade our website to look cool
+  * Support #44: Directly visiting http://redmine.plexyplanet.org/login leads to a internal login error
+  * Release #26: Move canvas from base/qt4 to runner
+  * Release #27: Canvas should handle the background drawing
+  * Bug #36: Crash at wallpaper change
+  * Bug #43: plexydesk does not compile on macosx
+  * Bug #45: QML Widgets are not clicped to the parent
+  * Bug #47: memory leak in loading qml
+  * Bug #51: plexydesk crashes when dropping wallpapers
+
+
+plexydesk-0.2.1    15 Jan 2011
+
+  * Working Debian files
+  * Facebook application skeleton
+
+
+plexydesk-0.0.1alpha    06 Sep 2008
+
+  * Initial Release.
